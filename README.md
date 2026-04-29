@@ -7,6 +7,8 @@
 
 A machine learning study predicting CO₂ adsorption in metal-organic frameworks was reproduced. The original paper reported R² = 0.90 and concluded that pressure and temperature are the most important variables. A different question was asked: if a capture system operates at a fixed pressure, which MOF should be chosen? By splitting the dataset into low-pressure and high-pressure regimes, it was found that metal identity is four times more important at low pressure than at high pressure. Uptake is not predicted accurately by the models (R² ≈ 0.25), but a useful insight is revealed: the design rules for MOF CO₂ capture depend on the operating conditions. One model for all pressures yields one answer. Different questions yield different answers.
 
+![Infographic summarizing the key findings](infographic.png)
+
 ## The Paper
 
 Li, X., et al. (2023). *Applied machine learning to analyze and predict CO₂ adsorption behavior of metal-organic frameworks.* Carbon Capture Science & Technology, 9, 100146.
