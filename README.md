@@ -52,7 +52,7 @@ The question you ask determines the answer you get.
 
 Li et al. asked: "What predicts uptake across all conditions?" Answer: pressure.
 
-I asked: "At MY operating pressure, what matters?" Answer: it depends on the pressure.
+I asked: "At MY operating pressure, what matters?" Answer: It depends on the pressure. In Low P, Choose Cu or Ni MOFs, and in High P, just pick the highest surface area MOF.
 
 Neither question is wrong. They serve different purposes.
 
